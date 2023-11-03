@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "acuantoesta",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
   }
 }

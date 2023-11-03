@@ -1,0 +1,18 @@
+.tab-navigation {
+    display: flex;
+    background-color: #3f51b5;
+    color: #fff;
+    justify-content: space-around;
+    padding: 5px;
+  }
+  
+  .tab {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .tab.active {
+    background-color: #536dfe;
+  }
+  

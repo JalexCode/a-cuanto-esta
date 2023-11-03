@@ -1,0 +1,48 @@
+.currencies-window{
+    background-color: white;
+}
+.tabview-background {
+    background-color: transparent;
+    justify-content: center;
+    padding: 10px;
+}
+.combo-box-container{
+    text-align: start;
+    justify-content: center;
+    font-size: smaller;
+    font-weight: bold;
+    
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.right-align {
+    justify-content: end;
+    margin-left: auto;
+}
+.spacings {
+    margin: 10px;
+}
+.text-row{
+    font-weight: bold;
+    margin-right: 15px;
+    text-align: start;
+}
+
+.increasing-diff {
+    color: red;
+}
+
+.decreasing-diff {
+    color: green;
+}
+
+.text-diff{
+    font-size: smaller;
+}
+
+table{
+    width: 100%;
+    padding: 10px;
+}
